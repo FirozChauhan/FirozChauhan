@@ -2,7 +2,7 @@
 
 # **0xFIROZ**
 
-<p style="margin-top: 6px;">Full-stack developer from India. I build self-hosted APIs, backend systems, polished frontends, and Linux utilities that probably shouldn't exist, with a stubborn belief that everything should degrade gracefully instead of crashing. RAG and the cutie paradox of Local LLMs.</p>
+<p style="margin-top: 6px;">I build self-hosted APIs, backend systems, polished frontends, and Linux utilities that probably shouldn't exist, with a stubborn belief that everything should degrade gracefully instead of crashing. RAG and the cutie paradox of Local LLMs.</p>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
